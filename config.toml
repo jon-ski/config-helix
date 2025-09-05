@@ -19,6 +19,7 @@ select = "underline"
 [editor.file-picker]
 hidden = false
 ignore = true
+git-ignore = false
 
 [editor.statusline]
 left = ["mode", "spinner", "spacer", "file-name"]
